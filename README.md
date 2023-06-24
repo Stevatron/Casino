@@ -24,7 +24,7 @@
     <li>Check Balance: Displays the current balance to the user.</li>
     <li>Exit Casino: Allows the user to exit the casino, enabling a new user to enter their name and balance.</li>
   </ol>
-
+  <h2>Contact</h2>
   <p>Feel free commit and contanct for future inquiries.</p>
 </body>
 </html>
