@@ -4,7 +4,9 @@
 </head>
 <body>
   <h1>Casino Console User Interface</h1>
-
+  <p>
+  The casino application aims to provide an entertaining and interactive experience for users, simulating the excitement of playing popular casino games. Users can test their luck, employ strategies, and enjoy the     
+  thrill of gambling within the virtual casino environment.</p>
   <h2>Installation/Running</h2>
   <ol>
     <li>Clone or download this repository to your local machine.</li>
