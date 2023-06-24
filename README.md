@@ -14,6 +14,9 @@
     <li>Open the solution.</li>
     <li>Compile the C++ source code.</li>
   </ol>
+
+  <h2>Requirements</h2>
+  <p>The application is built using C++, so it requires a compatible C++ development environment in order to compile and run the code.</p>
   
   <h2>User Interface</h2>
   <p>Upon launching the application, the user will be prompted to enter their name and balance. They will then be presented with the following options:</p>
