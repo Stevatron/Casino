@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Casino Application</title>
 </head>
 <body>
   <h1>Casino Console User Interface</h1>
